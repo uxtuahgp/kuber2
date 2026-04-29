@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: hello-world-pod
   labels:
-    app: web
+    app: echoserver
 spec:
   containers:
     - name: hello-world
