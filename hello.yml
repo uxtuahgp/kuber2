@@ -10,5 +10,5 @@ spec:
       image: gcr.io/kubernetes-e2e-test-images/echoserver:2.2
       env:
         - name: PORT
-          value: 8080
+          value: "8080"
           
